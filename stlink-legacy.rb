@@ -1,4 +1,4 @@
-class StlinkCustom < Formula
+class StlinkLegacyCustom < Formula
   desc "Legacy STM32 discovery line Linux programmer"
   homepage "https://github.com/texane/stlink"
   url "https://github.com/texane/stlink/archive/v1.5.1.tar.gz"
