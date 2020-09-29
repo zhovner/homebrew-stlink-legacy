@@ -2,5 +2,7 @@
 
 ## Install
 
-`brew tap zhovner/stlink-legacy`
-`brew install stlink-legacy`
+```
+brew tap zhovner/stlink-legacy
+brew install stlink-legacy
+```
